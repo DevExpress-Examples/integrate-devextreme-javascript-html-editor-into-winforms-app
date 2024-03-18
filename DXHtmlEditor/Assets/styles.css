@@ -1,0 +1,43 @@
+.dx-htmleditor-content img {
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.dx-htmleditor-content table {
+  width: 100%;
+}
+
+/* initial margin */
+body.dx-view-port {
+    padding: unset;
+}
+
+/* initial border */
+.dx-htmleditor.dx-htmleditor-outlined {
+    box-shadow: unset;
+}
+
+/* border when the component is active or focused */
+.dx-htmleditor.dx-htmleditor-outlined.dx-state-active, .dx-htmleditor.dx-htmleditor-outlined.dx-state-focused {
+    box-shadow: unset;
+    border-color: unset;
+}
+
+/* main border */
+.dx-htmleditor {
+    border: unset;
+}
+
+ /* 1px border between toolbar and content */
+.dx-htmleditor .dx-htmleditor-toolbar-wrapper:first-child {
+    border-bottom: unset;
+}
