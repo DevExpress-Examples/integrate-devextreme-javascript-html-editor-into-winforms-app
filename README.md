@@ -1,5 +1,4 @@
 <!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/773701951/23.2.3%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1223158)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
@@ -8,7 +7,7 @@
 
 This example integrates the JavaScript WYSIWYG HTML Editor (a components that ships as part of [DevExteme UI component suite](https://js.devexpress.com)) within a WinForms application. The client-side HTML Editor is embedded into the Microsoft Edge WebView2 control (`DXHtmlEditorWebView`).
 
-![Integrate JavaScript HTML Editor into a WinForms Application](https://raw.githubusercontent.com/DevExpress-Examples/integrate-devextreme-javascript-html-editor-into-winforms-app/main/i/devextreme-html-editor-within-winforms-app.png?token=GHSAT0AAAAAACOLUA4BY24LLNXJFVZ63SBCZPYBT7Q)
+![Integrate JavaScript HTML Editor into a WinForms Application](./i/devextreme-html-editor-within-winforms-app.png)
 
 ## HTML Editor Features
 
