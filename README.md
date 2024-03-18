@@ -55,3 +55,7 @@ The example also implements the following:
 - [DXHtmlEditorWebView.cs](./CS/DXHtmlEditor/DXHtmlEditorWebView.cs)
 - [MainForm.cs](./CS/MainForm.cs)
 - [index.js](./CS/DXHtmlEditor/Assets/index.js)
+
+## See Also
+
+[Integrate the DevExtreme JavaScript HTML Editor into a WinForms Application (Blog Post)](https://community.devexpress.com/blogs/winforms/archive/2024/03/18/integrate-devextreme-javascript-html-editor-into-winforms-app.aspx)
