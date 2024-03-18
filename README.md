@@ -51,7 +51,7 @@ The example also implements the following:
 
 ## Files to Review
 
-- [DXHtmlEditorClient.cs](./DXHtmlEditor/DXHtmlEditorClient.cs)
-- [DXHtmlEditorWebView.cs](./DXHtmlEditor/DXHtmlEditorWebView.cs)
-- [MainForm.cs](./MainForm.cs)
-- [index.js](./DXHtmlEditor/Assets/index.js)
+- [DXHtmlEditorClient.cs](./CS/DXHtmlEditor/DXHtmlEditorClient.cs)
+- [DXHtmlEditorWebView.cs](./CS/DXHtmlEditor/DXHtmlEditorWebView.cs)
+- [MainForm.cs](./CS/MainForm.cs)
+- [index.js](./CS/DXHtmlEditor/Assets/index.js)
