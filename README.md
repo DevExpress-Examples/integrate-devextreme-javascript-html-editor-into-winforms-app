@@ -6,6 +6,8 @@
 
 This example integrates the JavaScript WYSIWYG HTML Editor (a components that ships as part of [DevExteme UI component suite](https://js.devexpress.com)) within a WinForms application. The client-side HTML Editor is embedded into the Microsoft Edge WebView2 control (`DXHtmlEditorWebView`).
 
+![Integrate JavaScript HTML Editor into a WinForms Application](https://raw.githubusercontent.com/DevExpress-Examples/integrate-devextreme-javascript-html-editor-into-winforms-app/main/i/devextreme-html-editor-within-winforms-app.png?token=GHSAT0AAAAAACOLUA4BY24LLNXJFVZ63SBCZPYBT7Q)
+
 ## HTML Editor Features
 
 - HTML and Markdown Support
@@ -44,3 +46,10 @@ The example also implements the following:
 4. Set **Build Action** to "Embedded Resource" for all files in the Assets folder.
 5. Build the solution.
 6. Drop the `DXHtmlEditorWebView` component from the toolbox onto a form.
+
+## Files to Review
+
+- [DXHtmlEditorClient.cs](./DXHtmlEditor/DXHtmlEditorClient.cs)
+- [DXHtmlEditorWebView.cs](./DXHtmlEditor/DXHtmlEditorWebView.cs)
+- [MainForm.cs](./MainForm.cs)
+- [index.js](./DXHtmlEditor/Assets/index.js)
