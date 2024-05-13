@@ -22,9 +22,9 @@ This example integrates the JavaScript WYSIWYG HTML Editor (a components that sh
 - UI Customization
 - Light/Dark Themes
 
-> Note
-> -	Using DevExpress JavaScript HTML Editor within your desktop application requires an active [DevExtreme license](https://www.devexpress.com/buy/js/).
-> -	The DevExtreme HTML Editor does not support all HTML-related features and tags ([read about limitations](https://js.devexpress.com/Angular/Documentation/Guide/UI_Components/HtmlEditor/Overview/)).
+> **NOTE**
+> - Using DevExpress JavaScript HTML Editor within your desktop application requires an active [DevExtreme license](https://www.devexpress.com/buy/js/).
+> - The DevExtreme HTML Editor does not support all HTML-related features and tags ([read about limitations](https://js.devexpress.com/Angular/Documentation/Guide/UI_Components/HtmlEditor/Overview/)).
 
 The example also implements the following:
 
